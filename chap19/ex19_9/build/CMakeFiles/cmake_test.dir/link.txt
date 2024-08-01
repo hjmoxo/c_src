@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cmake_test.dir/average.c.o CMakeFiles/cmake_test.dir/input.c.o CMakeFiles/cmake_test.dir/main.c.o -o cmake_test 

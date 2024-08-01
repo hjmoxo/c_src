@@ -1,0 +1,3 @@
+/home/test/Desktop/c_src/chap19/cmake_test/build/CMakeFiles/cmake_test.dir
+/home/test/Desktop/c_src/chap19/cmake_test/build/CMakeFiles/edit_cache.dir
+/home/test/Desktop/c_src/chap19/cmake_test/build/CMakeFiles/rebuild_cache.dir
